@@ -4,8 +4,8 @@
 This project models inflation rates for various products over time using exponential and polynomial regression models. It analyzes inflation growth and compares product inflation rates. The project uses Python and data analysis tools to understand and forecast inflation trends.
 
 ## 🗂️ Dataset
-Source: [Unknown] (CPI prices of products from 1900 to 2015)  
-Data Size: **177 rows × 38 columns** (53.6 KB)  
+- Source: U.S Bureau of Labor Statistics (CPI prices of products from 1900 to 2015)  
+- Data Size: **177 rows × 38 columns** (53.6 KB)  
 
 ## 🏗️ Methods & Models
 Preprocessing: Data cleaning, transformation, and feature engineering
