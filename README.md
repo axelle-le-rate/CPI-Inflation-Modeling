@@ -5,7 +5,7 @@ This project models inflation rates for various products over time using exponen
 
 ## 🗂️ Dataset
 Source: [Unknown] (CPI prices of products from 1900 to 2015)  
-Data Size: **117 rows × 38 columns** (~Z MB)  
+Data Size: **177 rows × 38 columns** (53.6 KB)  
 
 ## 🏗️ Methods & Models
 Preprocessing: Data cleaning, transformation, and feature engineering
