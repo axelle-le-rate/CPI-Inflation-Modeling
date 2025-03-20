@@ -48,7 +48,9 @@ Open the CPI-Inflation-Modeling.ipynb file, and run all the cells in the noteboo
 Python · NumPy · Pandas · Matplotlib · SciPy
 
 ## 📌 Future Improvements
-
 Apply machine learning models (e.g., decision trees, random forests) to predict future inflation rates.
 Use more detailed data sources to increase model accuracy.
 Explore time series forecasting techniques like ARIMA or LSTM networks.
+
+## 📝 Note on ChatGPT Assistance
+During the development and debugging phases of this project, I referenced valuable conversations with ChatGPT that helped me resolve coding issues and improve the overall solution. Unfortunately, these conversations are no longer accessible due to platform limitations, so the specific details cannot be provided here. However, the guidance and debugging steps from those interactions were integral to the project.
