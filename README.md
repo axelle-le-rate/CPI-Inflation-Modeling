@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 This project models inflation rates for various products over time using exponential and polynomial regression models. It analyzes inflation growth and compares product inflation rates. The project uses Python and data analysis tools to understand and forecast inflation trends.
 
+📄 **View the Full Analysis Report:**  
+[CPI-Inflation-Modelling.ipynb](CPI-Inflation-Modelling.ipynb) 
+
 ## 🗂️ Dataset
 - Source: U.S Bureau of Labor Statistics (CPI prices of products from 1900 to 2015)  
 - Data Size: **177 rows × 38 columns** (53.6 KB)  
@@ -23,7 +26,7 @@ Inflation rates showed significant variation between product categories.
 1. **Clone the repository**:
 
  ```sh
-git clone https://github.com/YourGitHubUsername/CPI-Inflation-Modeling.git
+git clone https://github.com/axelle-le-rate/CPI-Inflation-Modeling.git
  ```
 
 **Install dependencies**: 
